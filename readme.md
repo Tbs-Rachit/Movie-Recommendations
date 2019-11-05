@@ -13,12 +13,12 @@
 
 1. Clone repository
 ```
-$ git clone https://github.com/raj4rachit/laravel-passport-api.git
+$ git clone https://github.com/Tbs-Rachit/Movie-Recommendations.git
 ```
 
 2. Enter folder
 ```
-$ cd laravel-passport-api
+$ cd Movie-Recommendations
 ```
 
 3. Install composer dependencies
